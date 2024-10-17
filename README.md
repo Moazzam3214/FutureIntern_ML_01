@@ -68,8 +68,6 @@ The model's performance is evaluated using common regression metrics:
 - **R-Squared**: Indicates how well the model explains the variance in house prices.
 - **Mean Absolute Error (MAE)**: Measures the average difference between predicted and actual prices.
 
-(Add model results here, such as accuracy metrics and comparisons)
-
 ## Future Improvements
 
 - Experiment with more advanced models and hyperparameter tuning.
