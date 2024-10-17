@@ -34,7 +34,7 @@ The dataset used in this project includes various features that influence house 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/house-price-prediction.git
+   git clone https://github.com/moazzam3214/house-price-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
